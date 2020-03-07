@@ -1,2 +1,2 @@
 # daa-lab
-Code written as part of Object Oriented Programming Practice course, 2020.
+Code written as part of Object Oriented Programming Practice course @IIITDM, 2020.
